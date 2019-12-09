@@ -1,4 +1,3 @@
-
 spring:
   application:
     name: hello-spring-cloud-web-admin-feign
